@@ -1,8 +1,5 @@
 # AIOps-demo-2
 
-PS F:\workspace\vscode\AIOPS-LOCAL\module_2\demo2> set TENCENTCLOUD_SECRET_KEY=IKIDloyALTYYceiVguBeBfyLg4S5eGuLh8iL  
-PS F:\workspace\vscode\AIOPS-LOCAL\module_2\demo2> set TENCENTCLOUD_SECRET_ID=xvmWGBGPWbsu3HUYn5g7NWVQE68UtSvf  
-
 # cvm.tf  
 terraform {  
   required_providers {  
